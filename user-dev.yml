@@ -7,7 +7,7 @@ spring:
     password: qinchuxun
     url: jdbc:mysql://127.0.0.1:3306/day02?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC
   application:
-      name: user-provider
+      name: eureka-client-provide
 eureka:
   client:
     service-url:
