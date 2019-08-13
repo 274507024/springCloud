@@ -12,5 +12,3 @@ eureka:
   client:
     service-url:
       defaultZone: http://127.0.0.1:10086/eureka
-test:
-  hello: 5248574397
